@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aneka Makanan</string>
+    <string name="makanan_enak">Makanan Enak</string>
+    <string name="judul_gambar">Delicious Food</string>
+    <string name="tiga_point">+3 point</string>
+    <string name="dua_point">+2 point</string>
+    <string name="atu_point">+1 point</string>
+    <string name="tim_a">Tim A</string>
+    <string name="tim_b">Tim B</string>
+    <string name="skor_a">0</string>
+    <string name="skor_b">0</string>
+    <string name="reset">reset</string>
+</resources>
